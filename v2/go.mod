@@ -1,4 +1,4 @@
-module github.com/cloudevents/sdk-go/v2
+module github.com/kmcdon83/sdk-go/v2
 
 go 1.14
 
